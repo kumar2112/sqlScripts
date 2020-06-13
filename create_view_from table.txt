@@ -1,0 +1,4 @@
+CREATE VIEW  view_name AS
+SELECT CustomerName, ContactName
+FROM table_name
+WHERE condtions
